@@ -9,3 +9,7 @@ This was created for a project I am working in Max msp to use minecaft entity da
 a generative music piece.
 
 More info on Max msp [here](https://cycling74.com/downloads).
+
+## Developer commands
+- `./gradlew build` — compile and package the mod.
+- `./gradlew dependencyUpdates` — review dependencies for newer stable releases.
