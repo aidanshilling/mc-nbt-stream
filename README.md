@@ -10,6 +10,9 @@ a generative music piece.
 
 More info on Max msp [here](https://cycling74.com/downloads).
 
+I also wanted to test the limits of vibe coding and had some success with this project so far.
+I've included the agents.md file I used.
+
 ## Developer commands
 - `./gradlew build` — compile and package the mod.
 - `./gradlew dependencyUpdates` — review dependencies for newer stable releases.
